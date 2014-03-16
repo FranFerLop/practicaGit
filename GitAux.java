@@ -21,7 +21,8 @@ public class GitAux {
  } 
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
- 	
+ 	// modificaciones alumno 1
+	System.out.println("Alumno 1 inserta esta sentencia");
     }
     public void testGitAux(){
     // metodo rama testing
